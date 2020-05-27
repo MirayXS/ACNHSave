@@ -20,11 +20,6 @@ v1.1.4  | a31f81d41e1039c5
 v1.2.0  | 20ca968c082118c2
 v1.2.1  | 9429fc5202937d7f
 
-## See Also
-
-[ACNH-BCATs](https://github.com/agronomru/ACNH-BCATs) by [agronomru](https://github.com/agronomru)
-- This repository contains BCAT events and step-by-step guide for installing BCAT event.
-
 ## Credits 
 
 Name | Reason
