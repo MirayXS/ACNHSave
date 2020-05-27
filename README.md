@@ -1,13 +1,7 @@
 # ACNHSave
 > Animal Crossing: New Horizons Saves Archive. (v1.0.0 → v1.2.1)
 
-Website: [mirayxs.github.io/ACNHSave](https://mirayxs.github.io/ACNHSave)
-
-You can use these saves for anything you want.
-
-You can use these saves to fix your program issues, if the program needs to have the latest version support.
-
-❌ If a version is missing, please make an issue!
+### Website: [mirayxs.github.io/ACNHSave](https://mirayxs.github.io/ACNHSave)
 
 Version | Build ID
 --------| -----------------
