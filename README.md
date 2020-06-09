@@ -1,5 +1,5 @@
 # ACNHSave
-> Animal Crossing: New Horizons Saves Archive. (v1.0.0 → v1.2.1)
+> Animal Crossing: New Horizons Saves Archive
 
 ### Website: [mirayxs.github.io/ACNHSave](https://mirayxs.github.io/ACNHSave)
 
@@ -13,9 +13,3 @@ v1.1.3  | e2d890a4d19fad02
 v1.1.4  | a31f81d41e1039c5
 v1.2.0  | 20ca968c082118c2
 v1.2.1  | 9429fc5202937d7f
-
-## Credits 
-
-Name | Reason
----- | ---------
-[titlekeys.ovh](https://titlekeys.ovh) | Website index & CSS
